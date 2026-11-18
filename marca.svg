@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Zenith Shop">
+  <rect width="64" height="64" rx="15" fill="#111117"/>
+  <path d="M16.5 19.5h27.5L19.5 45.5h28" fill="none" stroke="#FFD21F" stroke-width="7.5" stroke-linejoin="miter" stroke-miterlimit="10"/>
+  <circle cx="49.5" cy="13.5" r="5" fill="#8B5CF6"/>
+</svg>
